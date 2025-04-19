@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.bg-yellow{
+    background-color: #ffa200;
+}
+.btn-yellow{
+    background-color: #ffa200;
+}
