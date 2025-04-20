@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import mapImg from '../assets/map1.png'; // Adjust path as needed
-
+import homeimg from '../assets/home.png'
+import glbimg from '../assets/global.png'
 
 
 export default function MapView() {
