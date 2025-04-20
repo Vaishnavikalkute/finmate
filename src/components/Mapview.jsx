@@ -5,10 +5,11 @@ import glbimg from '../assets/global.png'
 
 
 export default function MapView() {
-  const [location, setLocation] = useState(null);
+  // const [location, setLocation] = useState(null);
 
   const handleClick = (place) => {
-    setLocation(place);
+    // setLocation(place);
+    console.log("work in progress")
   };
 
   return (
